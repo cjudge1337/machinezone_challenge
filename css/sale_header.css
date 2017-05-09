@@ -1,0 +1,9 @@
+.sale-header {
+  display: flex;
+  justify-content: center;
+}
+
+#sale-header-image {
+  width: 100%;
+  height: 50%;
+}
