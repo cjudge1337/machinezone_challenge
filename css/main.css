@@ -6,5 +6,6 @@
 @import url('./item_listing.css');
 
 html {
-  background-color: #E0E0E0;
+  background-color: #F5F5F5;
+  font-family: 'Roboto Mono', monospace;
 }

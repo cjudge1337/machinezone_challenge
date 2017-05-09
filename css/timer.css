@@ -1,6 +1,6 @@
 #sale-timer {
   display: flex;
   justify-content: center;
-  font-family: 'Roboto Mono', monospace;
   font-size: 30px;
+  margin-top: 20px;
 }
