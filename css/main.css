@@ -4,6 +4,7 @@
 @import url('./sale_header.css');
 @import url('./timer.css');
 @import url('./item_listing.css');
+@import url('./squares.css');
 
 html {
   background-color: #F5F5F5;

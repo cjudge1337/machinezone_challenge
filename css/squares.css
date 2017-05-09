@@ -1,0 +1,19 @@
+.squares {
+  display: flex;
+  justify-content: space-between;
+}
+
+.squares > button {
+  background-color: #00171F;
+  color: #FFFFFF;
+  height: 100px;
+  width: 100px;
+  font-size: 18px;
+  text-align: center;
+  margin: 5vw;
+}
+
+.squares > button:hover {
+  background-color: #00A7E1;
+  color: #00171F;
+}
