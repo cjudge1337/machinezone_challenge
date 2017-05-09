@@ -4,3 +4,15 @@
   font-size: 30px;
   margin-top: 20px;
 }
+
+@media screen and (max-width: 846px) {
+  #sale-timer {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 564px) {
+  #sale-timer {
+    font-size: 15px;
+  }
+}

@@ -11,6 +11,7 @@
   font-size: 18px;
   text-align: center;
   margin: 5vw;
+  transition: background-color 0.3s;
 }
 
 .squares > button:hover {
