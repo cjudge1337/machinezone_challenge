@@ -4,20 +4,33 @@
     <meta charset="utf-8">
     <title>MachineZone Challenge</title>
     <link rel="stylesheet" href="./css/main.css">
+    <!-- Normally I would load JSON through AJAX requests but since the file is -->
+    <!-- local it's easier to use it as a JavaScript object than have you run a  -->
+    <!-- local server to deliver the file. -->
+    <script type="text/javascript" src="./js/sale.json"></script>
+    <script type="text/javascript" src="./js/site.js"></script>
   </head>
   <body>
+    <header class="header">
+      <img src="./images/mz_logo.png">
+      <button type="button" name="button">Sign In</button>
+    </header>
+    <aside class="">
+      Chat box
+    </aside>
     <section id="sale-header">
-
+      <img id="sale-header-image" src="">
     </section>
     <section id="sale-timer">
-
+      Sale timer
     </section>
     <section id="item-listing">
-
+      Item listing
     </section>
 
     <footer>
-
+      footer
     </footer>
+
   </body>
 </html>

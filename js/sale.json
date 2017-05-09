@@ -1,5 +1,1 @@
-{
-  "headerImage": "",
-  "saleEndTimestamp": "",
-  "salesItems": []
-}
+data = '{ "headerImage": "./images/header_pic.jpg", "saleEndTimestamp": "2017-05-12", "salesItems": [{ "label": "Blue", "image": "./images/blue.jpg" }, { "label": "Jumper", "image": "./images/jumper.jpg" }, { "label": "Oliver", "image": "./images/oliver.jpg" }, { "label": "Two Face", "image": "./images/two_face.jpg" }]}';
