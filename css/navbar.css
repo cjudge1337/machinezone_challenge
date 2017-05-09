@@ -14,9 +14,9 @@
 .header > button {
   color: #00171F;
   height: 20px;
-  margin-right: 10px;
+  margin-right: 20px;
   margin-top: 21px;
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto Mono', monospace;
 }
 
 .header > button:hover {

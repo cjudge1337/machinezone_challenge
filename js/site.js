@@ -1,5 +1,3 @@
-
-
 document.addEventListener("DOMContentLoaded", function() {
   const saleData = JSON.parse(data);
 

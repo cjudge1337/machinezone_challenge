@@ -2,7 +2,9 @@
 @import url('./navbar.css');
 @import url('./chatbox.css');
 @import url('./sale_header.css');
+@import url('./timer.css');
+@import url('./item_listing.css');
 
-body {
-  background-color: #F5F5F5;
+html {
+  background-color: #E0E0E0;
 }

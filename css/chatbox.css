@@ -1,12 +1,12 @@
 aside {
   position: fixed;
-  left: 92%;
+  right: 20px;
   display: flex;
-  height: 100px;
-  width: 100px;
+  /*height: 100px;*/
+  width: 117px;
   background-color: #00171F;
   color: #FFFFFF;
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto Mono', monospace;
   font-size: 13px;
-  padding: 12px 4px 4px 4px;
+  padding: 4px 5px 4px 4px;
 }
