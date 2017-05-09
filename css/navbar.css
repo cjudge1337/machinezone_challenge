@@ -1,0 +1,24 @@
+.header {
+  background-color: #00A7E1;
+  display: flex;
+  justify-content: space-between;
+  height: 65px;
+}
+
+.header > img {
+  height: 45px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.header > button {
+  color: #00171F;
+  height: 20px;
+  margin-right: 10px;
+  margin-top: 21px;
+  font-family: 'Merriweather', serif;
+}
+
+.header > button:hover {
+  color: #FFFFFF;
+}

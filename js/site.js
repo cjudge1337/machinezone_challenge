@@ -17,7 +17,10 @@ function load(saleData) {
   document.getElementById('oliver-image').src = saleData.salesItems[2].image;
   document.getElementById('two-face-image').src = saleData.salesItems[3].image;
 
-
+  document.getElementById('blue-label').innerHTML = saleData.salesItems[0].label;
+  document.getElementById('jumper-label').innerHTML = saleData.salesItems[1].label;
+  document.getElementById('oliver-label').innerHTML = saleData.salesItems[2].label;
+  document.getElementById('two-face-label').innerHTML = saleData.salesItems[3].label;
 }
 
 function countdownTimer(date, id) {
